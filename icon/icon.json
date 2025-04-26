@@ -2,9 +2,8 @@
 "name":"test", 
 "description":"图标包", 
 "icons":
+
     [
     {"name":"1111", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/IMG_20250426_083739_218.jpg"},
-    {"name":"Emby1", "url":"png_path"},
-    {"name":"Emby2", "url":"png_path"},
     ]
 }
