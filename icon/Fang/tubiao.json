@@ -3,6 +3,7 @@
 "description":"图标包", 
 "icons":
     [
-    {"name":"Loser1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/master/icon/Fang/icon/Loser1.jpg"}
+    {"name":"Loser1", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/master/icon/Fang/icon/Loser1.jpg"},
+    {"name":"Emby1", "url":"png_path"},
     ]
 }
