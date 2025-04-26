@@ -1,6 +1,10 @@
-[
-  { "filename": "https://raw.githubusercontent.com/Miko6677/my-icon-library/68200531353867899f44710ea01f7bbab0b546de/icon/IMG_20250306_034219_281.jpg", "name": "测试" },
-  { "filename": "https://raw.githubusercontent.com/Miko6677/my-icon-library/68200531353867899f44710ea01f7bbab0b546de/icon/IMG_20250316_014234_325.jpg", "name": "图标名称二" },
-  { "filename": "https://raw.githubusercontent.com/Miko6677/my-icon-library/68200531353867899f44710ea01f7bbab0b546de/icon/IMG_20250316_015155_307.jpg", "name": "图标名称三" },
-  { "filename": "https://raw.githubusercontent.com/Miko6677/my-icon-library/68200531353867899f44710ea01f7bbab0b546de/icon/IMG_20250316_015535_328.jpg", "name": "图标名称四" }
-] 
+{
+"name":"test", 
+"description":"图标包", 
+"icons":
+    [
+    {"name":"1111", "url":"https://raw.githubusercontent.com/Miko6677/my-icon-library/main/icon/IMG_20250426_083739_218.jpg"},
+    {"name":"Emby1", "url":"png_path"},
+    {"name":"Emby2", "url":"png_path"},
+    ]
+}
